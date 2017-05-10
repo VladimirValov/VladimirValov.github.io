@@ -1,6 +1,6 @@
 
 Hello!
-
+<img src="WeatherForecastFromYahoo.png">
 В данном проекте не будет использовано тестирование.
 
 План:
